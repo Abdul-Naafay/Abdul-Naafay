@@ -3,6 +3,5 @@
 - 🌱 I’m currently learning Front-End development
 - 👀 I’m interested in VR, gaming/dev and cloud computing!
 - 📫 How to reach me: naafayawan57@gmail.com
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: TODO:// insert funny quote
 
